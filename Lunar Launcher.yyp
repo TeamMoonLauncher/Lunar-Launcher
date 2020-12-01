@@ -43,7 +43,6 @@
     {"id":{"name":"Menu_Button_musicoff","path":"sprites/Menu_Button_musicoff/Menu_Button_musicoff.yy",},"order":2,},
     {"id":{"name":"Menu_Button_Quit","path":"sprites/Menu_Button_Quit/Menu_Button_Quit.yy",},"order":5,},
     {"id":{"name":"Menu_Button_cursoron","path":"sprites/Menu_Button_cursoron/Menu_Button_cursoron.yy",},"order":0,},
-    {"id":{"name":"Spr_menuhint_1","path":"sprites/Spr_menuhint_1/Spr_menuhint_1.yy",},"order":19,},
     {"id":{"name":"Spr_playerrespawn","path":"sprites/Spr_playerrespawn/Spr_playerrespawn.yy",},"order":15,},
     {"id":{"name":"Level_3_2","path":"sprites/Level_3_2/Level_3_2.yy",},"order":12,},
     {"id":{"name":"spacemono_go","path":"fonts/spacemono_go/spacemono_go.yy",},"order":1,},
